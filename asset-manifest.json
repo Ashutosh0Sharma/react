@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.f855e6bc.css",
-    "main.js": "/your-repo-name/static/js/main.586d7770.js",
-    "static/js/488.af104311.chunk.js": "/your-repo-name/static/js/488.af104311.chunk.js",
-    "static/media/logo.svg": "/your-repo-name/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/your-repo-name/index.html",
-    "main.f855e6bc.css.map": "/your-repo-name/static/css/main.f855e6bc.css.map",
-    "main.586d7770.js.map": "/your-repo-name/static/js/main.586d7770.js.map",
-    "488.af104311.chunk.js.map": "/your-repo-name/static/js/488.af104311.chunk.js.map"
+    "main.css": "/Ashutosh0Sharma/react.git/static/css/main.f855e6bc.css",
+    "main.js": "/Ashutosh0Sharma/react.git/static/js/main.09fecb2d.js",
+    "static/js/488.af104311.chunk.js": "/Ashutosh0Sharma/react.git/static/js/488.af104311.chunk.js",
+    "static/media/logo.svg": "/Ashutosh0Sharma/react.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ashutosh0Sharma/react.git/index.html",
+    "main.f855e6bc.css.map": "/Ashutosh0Sharma/react.git/static/css/main.f855e6bc.css.map",
+    "main.09fecb2d.js.map": "/Ashutosh0Sharma/react.git/static/js/main.09fecb2d.js.map",
+    "488.af104311.chunk.js.map": "/Ashutosh0Sharma/react.git/static/js/488.af104311.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.586d7770.js"
+    "static/js/main.09fecb2d.js"
   ]
 }
