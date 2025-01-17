@@ -13,8 +13,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-      "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -22,7 +22,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://github.com/Ashutosh0Sharma/react.git",
   "browserslist": {
     "production": [
       ">0.2%",
